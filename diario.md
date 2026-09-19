@@ -276,3 +276,9 @@
 - 📝 Estudo do conteúdo relativo à perguntas de exercícios | 3) Por que se declara a variável como List e se cria como ArrayList? ; 4) Por que == não compara texto em Java?
 
 ---
+
+### 📆 2026-09-18 | ⌛ 120 min sem IA (arquivo em branco)
+
+- 📝 Diagnóstico CSV Final (Java) - Tarefa 1 a 6 concluídas em 69 min. | 📍Local: pratica/src/diagnostico/fase1 | 👀Travei: Não | ✅Resolvi sozinho: Sim
+
+---
