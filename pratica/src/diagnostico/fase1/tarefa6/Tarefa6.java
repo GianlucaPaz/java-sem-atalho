@@ -2,14 +2,10 @@ package fase1.tarefa6;
 
 import fase1.tarefa3.Item;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class Tarefa6 {
     public static void main(String[] args) {
-
         Item arroz = new Item("Arroz", "comida", 25.90);
         Item sabao = new Item("Sabão", "limpeza", 12.50);
         Item feijao = new Item("Feijão", "comida", 9.80);
@@ -17,19 +13,17 @@ public class Tarefa6 {
         Item cafe = new Item("Café", "comida", 18.00);
 
         List<Item> listaDeItens = new ArrayList<>(List.of(arroz, sabao, feijao, detergente, cafe));
-
-        Map<String, Double> mapDosValoresTotaisDasCategorias = new HashMap<>();
+        Map<String, Double> mapValorTotalItens = new HashMap<>();
 
         for(Item item : listaDeItens){
-
             String categoria = item.getCategoria();
             double valor = item.getValor();
 
-            double somaDaCategoria = mapDosValoresTotaisDasCategorias.getOrDefault(categoria, 0.0) + valor;
+            double somaTotal = mapValorTotalItens.getOrDefault(categoria, 0.0) + valor;
 
-            mapDosValoresTotaisDasCategorias.put(categoria, somaDaCategoria);
+            mapValorTotalItens.put(categoria, somaTotal);
         }
 
-        mapDosValoresTotaisDasCategorias.forEach((categoria, valor) -> System.out.printf("%s: %.2f%n", categoria, valor));
+        mapValorTotalItens.forEach((categoria, valor) -> System.out.printf(Locale.US,"%s: %.2f%n", categoria, valor));
     }
 }

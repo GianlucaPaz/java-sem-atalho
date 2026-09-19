@@ -2,19 +2,19 @@ package fase1.tarefa3;
 
 public class Item {
 
-    //Atributos
+    // Atributos
     private String nome;
     private String categoria;
     private double valor;
 
-    //Métodos
-
+    // Construtor
     public Item(String nome, String categoria, double valor){
         this.nome = nome;
         this.categoria = categoria;
         this.valor = valor;
     }
 
+    // Métodos Getter
     public String getNome(){
         return nome;
     }

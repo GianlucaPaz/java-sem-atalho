@@ -1,12 +1,10 @@
 package fase1.tarefa3;
 
 public class Principal {
-    public static void main(String[] args){
+    public static void main(String[] args) {
+        Item biscoito = new Item("Biscoito", "comida", 3.50);
+        Item camera = new Item("Câmera", "tecnologia", 275.50);
 
-        Item item1 = new Item("Feijão", "Comida", 9.80);
-        Item item2 = new Item("Sabonete", "Limpeza", 12.50);
-
-        System.out.println(item1.getNome());
-        System.out.println(item2.getNome());
+        System.out.println(biscoito.getNome() + " e " + camera.getNome());
     }
 }
