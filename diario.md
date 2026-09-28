@@ -390,3 +390,9 @@ Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura d
 - 📝 Javanauta Reconstrução da aula (Composição e Agregação  — Java) | 📍 pratica/src/javanauta/reconstrucao/poo/associacao | 👀 Travei: Sim (dificuldade de etendimento do método to String() e dificuldade de entendimento e prática dos conceitos associativos) | ☑️ Resolvi sozinho: A maioria
 
 ---
+
+### 📆 2026-09-23 · 🏷️ pausa
+
+- 😴 Pausa declarada — organização final dos documentos da fase 2. *2ª de 2 da Fase 2.*
+
+---
