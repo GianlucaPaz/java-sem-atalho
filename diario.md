@@ -396,3 +396,12 @@ Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura d
 - 😴 Pausa declarada — organização final dos documentos da fase 2. *2ª de 2 da Fase 2.*
 
 ---
+
+### 📆 2026-09-24 · 🏷️ útil
+⌛ **Arquivo em branco:** 90 min · **Código sem IA (total):** 280 min · 🔢 **Exercícios:** 1 resolvidos e 0 não resolvido
+
+- 📝 Beecrowd 1040 (Java) | 🧱 Arquivo em branco | 📍 https://judge.beecrowd.com/pt/problems/view/1040 | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 POO — aulas do módulo (restam 1 aula) | 📍 — | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Abstração  — Java) | 📍 pratica/src/javanauta/reconstrucao/poo/abstracao | 👀 Travei: Sim (Mais na questão criativa de criar as classes) | ☑️ Resolvi sozinho: A maioria
+
+---
