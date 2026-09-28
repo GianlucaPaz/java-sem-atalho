@@ -387,7 +387,7 @@ Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura d
 - 📝 Exercism - Hello World (Java) | 🧱 Arquivo em branco | 📍 https://exercism.org/tracks/java/exercises/hello-world | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
 - 📝 Exercism - Cook Your Lasagna (Java) | 🧱 Arquivo em branco | 📍 https://exercism.org/tracks/java/exercises/lasagna | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
 - 📝 POO — aulas do módulo (restam 2 aulas) | 📍 — | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Composição e Agregação  — Java) | 📍 pratica/src/javanauta/reconstrucao/poo/associacao | 👀 Travei: Sim (dificuldade de etendimento do método to String() e dificuldade de entendimento e prática dos conceitos associativos) | ☑️ Resolvi sozinho: A maioria
+- 📝 Javanauta Reconstrução da aula (Composição e Agregação  — Java) | 🧱 Reconstrução | 📍 pratica/src/javanauta/reconstrucao/poo/associacao | 👀 Travei: Sim (dificuldade de etendimento do método to String() e dificuldade de entendimento e prática dos conceitos associativos) | ☑️ Resolvi sozinho: A maioria
 
 ---
 
@@ -402,7 +402,7 @@ Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura d
 
 - 📝 Beecrowd 1040 (Java) | 🧱 Arquivo em branco | 📍 https://judge.beecrowd.com/pt/problems/view/1040 | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
 - 📝 POO — aulas do módulo (restam 1 aula) | 📍 — | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
-- 📝 Javanauta Reconstrução da aula (Abstração  — Java) | 📍 pratica/src/javanauta/reconstrucao/poo/abstracao | 👀 Travei: Sim (Mais na questão criativa de criar as classes) | ☑️ Resolvi sozinho: A maioria
+- 📝 Javanauta Reconstrução da aula (Abstração  — Java) | 🧱 Reconstrução | 📍 pratica/src/javanauta/reconstrucao/poo/abstracao | 👀 Travei: Sim (Mais na questão criativa de criar as classes) | ☑️ Resolvi sozinho: A maioria
 
 ---
 
@@ -411,6 +411,18 @@ Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura d
 
 - 📝 Beecrowd 1041 (Java) | 🧱 Arquivo em branco | 📍 https://judge.beecrowd.com/pt/problems/view/1041 | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
 - 📝 Exercism - Annalyn's Infiltration (Java) | 🧱 Arquivo em branco | 📍 https://exercism.org/tracks/java/exercises/annalyns-infiltration | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
-- 📝 POO — aulas do módulo (perguntas de entrevistas e quiz) | 🧱 Reconstrução | | 📍 pratica/src/javanauta/exercicios/QuizPOO | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 POO — aulas do módulo (perguntas de entrevistas e quiz) | 🧱 Reconstrução | 📍 pratica/src/javanauta/exercicios/QuizPOO | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+
+---
+
+### 📆 2026-09-28 · 🏷️ útil
+⌛ **Arquivo em branco:** 60 min · **Código sem IA (total):** 225 min · 🔢 **Exercícios:** 1 resolvidos e 1 não resolvido
+
+- 📝 Beecrowd 1042 (Java) | 🧱 Arquivo em branco | 📍 https://judge.beecrowd.com/pt/problems/view/1042 | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 Exercism - Log Levels (Java) | 🧱 Arquivo em branco | 📍 https://exercism.org/tracks/java/exercises/log-levels | 👀 Travei: Sim (Aprender a manipulação correta de Strings) | ❌ Resolvi sozinho: Não
+- 📝 Javanauta - 4 aulas do módulo de Exceções em Java | 📍 — | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 Javanauta Reconstrução da aula (Exceções Verificadas — Java) | 🧱 Reconstrução | 📍 pratica/src/javanauta/reconstrucao/excecao/verificada | 👀 Travei: Sim (Muito conteúdo novo gerando carência de prática e memória) | ✖️ Resolvi sozinho: A minoria
+- 📝 Javanauta Reconstrução da aula (Exceções Não Verificadas — Java) | 🧱 Reconstrução | 📍 pratica/src/javanauta/reconstrucao/excecao/naoverificada | 👀 Travei: Sim (Muito conteúdo novo gerando carência de prática e memória) | ✖️ Resolvi sozinho: A minoria
+- 📝 Javanauta Reconstrução da aula (Exceções Personalizadas — Java) | 🧱 Reconstrução | 📍 pratica/src/javanauta/reconstrucao/excecao/personalizada | 👀 Travei: Sim (Muito conteúdo novo gerando carência de prática e memória) | ✖️ Resolvi sozinho: A minoria
 
 ---
