@@ -405,3 +405,12 @@ Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura d
 - 📝 Javanauta Reconstrução da aula (Abstração  — Java) | 📍 pratica/src/javanauta/reconstrucao/poo/abstracao | 👀 Travei: Sim (Mais na questão criativa de criar as classes) | ☑️ Resolvi sozinho: A maioria
 
 ---
+
+### 📆 2026-09-25 · 🏷️ útil
+⌛ **Arquivo em branco:** 60 min · **Código sem IA (total):** 160 min · 🔢 **Exercícios:** 8 resolvidos e 0 não resolvido
+
+- 📝 Beecrowd 1041 (Java) | 🧱 Arquivo em branco | 📍 https://judge.beecrowd.com/pt/problems/view/1041 | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 Exercism - Annalyn's Infiltration (Java) | 🧱 Arquivo em branco | 📍 https://exercism.org/tracks/java/exercises/annalyns-infiltration | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 POO — aulas do módulo (perguntas de entrevistas e quiz) | 🧱 Reconstrução | | 📍 pratica/src/javanauta/exercicios/QuizPOO | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+
+---
