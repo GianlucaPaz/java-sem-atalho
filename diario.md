@@ -376,7 +376,7 @@ Caminhos de arquivo são relativos à raiz do repositório. Quando a estrutura d
 ### 📆 2026-09-21 · 🏷️ pausa
 
 - 😴 Pausa declarada — descanso mental e preparação para fase 2. *1ª de 2 da Fase 2.*
-- 📝 Documento de revisão da Fase 1 | 📍 pratica/revisoes/revisao-fase-1.md | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
+- 📝 Documento de revisão da Fase 1 | 📍 revisoes/revisao-fase-1.md | 👀 Travei: Não | ✅ Resolvi sozinho: Sim
 
 ---
 
