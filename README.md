@@ -147,7 +147,7 @@ Regras: infinitivo, minúscula inicial, sem ponto final, sem acento, até ~50 ca
 Dias que não são de estudo também são commitados, porque o denominador do plano depende deles. Um bloco de dias consecutivos recebe um commit só:
 
 ```bash
-docs(diario): registrar 2026-09-22
+docs(diario): registrar dia 2026-09-22
 docs(diario): registrar pausa de 2026-09-09 a 2026-09-11
 docs(revisao): registrar a revisao da fase 1
 
