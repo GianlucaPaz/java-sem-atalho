@@ -83,6 +83,8 @@ Lista fechada.
 
 **O escopo acompanha a origem do conteúdo, não a subpasta.** Tudo sob `pratica/src/javanauta/` usa `javanauta`, qualquer que seja o módulo — inclusive as reconstruções de Spring da Fase 2. Um escopo `spring` seria granularidade sem uso: a origem continua sendo o curso.
 
+### Por que data ISO e não `dia N`
+
 Sequencial exige contar dias úteis desde 27/07 e dessincroniza na primeira falha; a data é autoevidente e nunca precisa de `--force`. O número do dia vive no Sheets, onde é recalculável.
 
 O escopo é o que impede o `feat:` de virar ruído num repo onde quase todo commit é exercício. Ele também habilita `git log --oneline --grep="beecrowd"`.
@@ -125,7 +127,7 @@ git add pratica/src/beecrowd/Bee1005.java
 git commit -m "feat(beecrowd): resolver 1005"
 
 git add diario.md
-git commit -m "docs(diario): registrar 2026-09-22"
+git commit -m "docs(diario): registrar dia 2026-09-22"
 
 git push
 ```
@@ -133,7 +135,7 @@ git push
 Dia útil sem exercício resolvido tem um commit só, e isso é o dado:
 
 ```
-docs(diario): registrar 2026-09-22 sem exercicio concluido
+docs(diario): registrar dia 2026-09-22 sem exercicio concluido
 ```
 
 Commit de estrutura fica separado do commit do dia:
@@ -151,7 +153,7 @@ O bloco de projeto próprio commita no repositório da API (seção 8). O regist
 git commit -m "feat(livros): criar endpoint de cadastro"
 
 # no java-sem-atalho, no Fechamento
-git commit -m "docs(diario): registrar 2026-09-22"
+git commit -m "docs(diario): registrar dia 2026-09-22"
 ```
 
 ---
@@ -162,8 +164,8 @@ A taxonomia vem do `plano.md`, seção 4, e é a mesma da coluna `Tipo` da plani
 
 | Situação | Mensagem |
 |---|---|
-| Dia útil, com exercício | `docs(diario): registrar 2026-09-22` |
-| Dia útil sem exercício concluído | `docs(diario): registrar 2026-09-22 sem exercicio concluido` |
+| Dia útil, com exercício | `docs(diario): registrar dia 2026-09-22` |
+| Dia útil sem exercício concluído | `docs(diario): registrar dia 2026-09-22 sem exercicio concluido` |
 | Pausa declarada, um dia | `docs(diario): registrar pausa em 2026-09-08` |
 | Pausa declarada, vários dias | `docs(diario): registrar pausa de 2026-09-09 a 2026-09-11` |
 | Indisposição | `docs(diario): registrar indisposicao de 2026-09-09 a 2026-09-11` |
@@ -240,8 +242,8 @@ escopos: beecrowd | exercism | javanauta | diagnostico
 regras:  infinitivo · minuscula · sem ponto final · sem acento · ~50 chars
          1 exercicio = 1 commit · teste: "este commit ira ___"
 
-dia normal      docs(diario): registrar 2026-09-22
-dia sem saida   docs(diario): registrar 2026-09-22 sem exercicio concluido
+dia normal      docs(diario): registrar dia 2026-09-22
+dia sem saida   docs(diario): registrar dia 2026-09-22 sem exercicio concluido
 pausa           docs(diario): registrar pausa de 2026-09-09 a 2026-09-11
 indisposicao    docs(diario): registrar indisposicao em 2026-09-09
 proc. seletivo  docs(diario): registrar processo seletivo de 2026-08-31 a 2026-09-04
