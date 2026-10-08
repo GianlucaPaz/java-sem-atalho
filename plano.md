@@ -200,7 +200,7 @@ O critério de continuidade era **CSV em menos de 2h, sem IA, e áudio dos 3 con
 
 A evidência objetiva do ganho está no teste cronometrado: em 14/09, tarefas 1 a 4 em 68 min e travamento de 22 min na tarefa 5. Em 18/09, as seis tarefas em 69 min.
 
-Revisão completa em [`revisoes/fase-1.md`](revisoes/fase-1.md).
+Revisão completa em [`revisoes/revisao-fase-1.md`](revisoes/revisao-fase-1.md).
 
 ---
 
@@ -380,7 +380,7 @@ O prazo original de 1 mês era autoimposto. Trocá-lo por 6 meses **com um méto
 
 ## 14. Revisões obrigatórias
 
-Ao fim de cada fase, parar um dia e responder por escrito, em `revisoes/fase-N.md`:
+Ao fim de cada fase, parar um dia e responder por escrito, em `revisoes/revisao-fase-N.md`:
 
 1. **Cumpri a Regra do Arquivo em Branco em quantos dos dias úteis?** (a coluna `min. arquivo em branco`, não o total)
 2. **As metas verificáveis da fase foram atingidas? Quais não?**
@@ -403,7 +403,7 @@ Itens que atravessaram e precisam fechar durante a Fase 2:
 
 - [X] ~~3 aulas restantes do módulo de POO~~
 - [X] ~~Beecrowd 1040~~
-- [ ] As 5 perguntas de entrevista em aberto na seção 6 de `revisoes/fase-1.md`:
+- [ ] As 5 perguntas de entrevista em aberto na seção 6 de `revisoes/revisao-fase-1.md`:
   - Por que se declara a variável como `List` e se cria como `ArrayList`?
   - Por que `double` não serve para valor monetário? (com exemplo concreto de cálculo que falha)
   - Por que `==` não compara texto em Java, e o que ele compara de fato?
